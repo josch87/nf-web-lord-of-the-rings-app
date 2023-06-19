@@ -25,10 +25,10 @@ export default function TheFellowshipOfTheRing() {
         })}
       </ul>
       <Image
-        src="/images/the-fellowship-of-the-ring.png"
+        src={volumeData.cover}
         height={230}
         width={140}
-        alt="The Fellowship of the Ring"
+        alt={"Cover of " + volumeData.title}
       />
       <br />
       <Link href="/volumes/the-two-towers" title="The Two Towers">

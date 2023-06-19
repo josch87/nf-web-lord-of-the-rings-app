@@ -23,10 +23,10 @@ export default function TheTwoTowers() {
         })}
       </ul>
       <Image
-        src="/images/the-two-towers.png"
+        src={volumeData.cover}
         height={230}
         width={140}
-        alt="The Two Towers"
+        alt={"Cover of " + volumeData.title}
       />
       <br />
       <Link
