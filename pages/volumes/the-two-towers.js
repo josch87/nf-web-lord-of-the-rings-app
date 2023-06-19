@@ -24,8 +24,8 @@ export default function TheTwoTowers() {
       </ul>
       <Image
         src="/images/the-two-towers.png"
-        height={931}
-        width={574}
+        height={230}
+        width={140}
         alt="The Two Towers"
       />
       <br />

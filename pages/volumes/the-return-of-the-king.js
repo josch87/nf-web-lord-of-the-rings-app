@@ -27,8 +27,8 @@ export default function TheReturnOfTheKing() {
       </ul>
       <Image
         src="/images/the-return-of-the-king.png"
-        height={931}
-        width={574}
+        height={230}
+        width={140}
         alt="The Return of the King"
       />
       <br />
